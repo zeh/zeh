@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hey there.
 
-<!--
-**zeh/zeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Zeh Fernando. I live in New York, NY, where I work for [Work & Co](http://work.co/)
+as a (hands on) Group Engineering Director.
 
-Here are some ideas to get you started:
+I was born and raised in São Paulo, Brazil. I grew up loving both to draw and to
+code, starting with a [TK-85](http://en.wikipedia.org/wiki/TK_85) when I was 10
+and then later being entertained by things like the [MSX](http://en.wikipedia.org/wiki/MSX),
+the [Apple IIe](https://en.wikipedia.org/wiki/Apple_IIe), [ANSI art](http://en.wikipedia.org/wiki/ANSI_art),
+and the [demoscene](http://en.wikipedia.org/wiki/Demoscene).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I've been working as a programmer since 1994, initially developing database management
+systems and multimedia CD-ROMs, and later, design-driven interactive experiences
+for the Web, mobile applications, and out of home experiences. What I love doing
+is writing code to bring stuff to life on a screen.
+
+I’ve also accidentally created and helped maintain several open-source projects.
+These include [MC Tween](http://hosted.zeh.com.br/mctween/) and [Tweener](https://code.google.com/archive/p/tweener/)
+(for ActionScript animation), [usfxr](https://github.com/zeh/usfxr) (for real-time
+audio effects synthesis in C#/Unity), and [others](https://github.com/zeh/).
+
+Language wise, I tend to believe I’m mostly idiom-agnostic but today my attention
+is divided between JavaScript, TypeScript, C#, Java, Objective C, Dart, and Rust.
