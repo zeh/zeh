@@ -17,7 +17,7 @@ is writing code to bring stuff to life on a screen.
 I’ve also accidentally created and helped maintain several open-source projects.
 These include [MC Tween](http://hosted.zeh.com.br/mctween/) and [Tweener](https://code.google.com/archive/p/tweener/)
 (for ActionScript animation), [usfxr](https://github.com/zeh/usfxr) (for real-time
-audio effects synthesis in C#/Unity), and [others](https://github.com/zeh/).
+audio effects synthesis in C#/Unity), and [others](https://github.com/zeh?tab=repositories).
 
 Language wise, I tend to believe I’m mostly idiom-agnostic but today my attention
 is divided between JavaScript, TypeScript, C#, Java, Objective C, Dart, and Rust.
