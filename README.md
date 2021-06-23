@@ -1,6 +1,6 @@
 # Hey there.
 
-My name is Zeh Fernando. I live in New York, where I work for [Work & Co](http://work.co/) as a (hands on) Group Engineering Director.
+My name is Zeh Fernando. I live in Brooklyn, NY.
 
 I was born and raised in São Paulo, Brazil. I grew up loving both to draw and to code, and have been working since 1994 in a vast number of projects, languages, and platforms.
 
